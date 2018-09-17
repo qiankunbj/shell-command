@@ -62,3 +62,5 @@ sudo su
 3、进入log文件夹 cd /usr/local/tomcat/logs
 
 4、启动日志监控  tail -f catalina.out
+
+结束

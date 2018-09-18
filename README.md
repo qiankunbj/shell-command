@@ -12,7 +12,7 @@ postman:
 腾讯企业云账号：
 
 	liuqiankun@richalls.com
-	qian--@
+	普通密码@
 
 	zookeeper://127.0.0.1:2181
 

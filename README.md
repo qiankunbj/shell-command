@@ -1,19 +1,6 @@
 # shell-command
-# shell-command
-GitHub:
-	qiankunbj
-	普通密码
 
-postman:
-	liuqiankun@richalls.com
-	普通密码
-
-	
-腾讯企业云账号：
-
-	liuqiankun@richalls.com
-	普通密码@
-
+zk本地地址端口
 	zookeeper://127.0.0.1:2181
 
 #允许多条SQL语句执行  allowMultiQueries=true
